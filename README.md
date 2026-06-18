@@ -1,17 +1,17 @@
-# Day 6 MERN Training
+# Day 7 MERN Training
 
-This repository contains the projects completed during Day 6 of my MERN Stack training.
+This repository contains the projects completed during Day 7 of my MERN Stack training.
 
 ## Files Included
 
 ### 📄 Javacsript.js
-- A portfolio webpage functioned using javascript.
-- Demonstrates the use of javscript properties for proper functining and perfect working.
+- A Project using Node.js.
+- Demonstrates the use of JavaScript properties for proper functioning and perfect working.
 -Includes sections such as buttons, about, skills, projects, and contact information.
 
 ### 🎉 JavaScript.js
 - A College Fest webpage functioned using JavaScript.
-- Showcases the use of button, dynamic content, and properties of javacsript.
+- Showcases the use of buttons, dynamic content, and properties of JavaScript.
 
 ## Technologies Used
 - JavaScript
@@ -20,7 +20,7 @@ This repository contains the projects completed during Day 6 of my MERN Stack tr
 
 - Understanding JavaScript document functioning.
 - Implementing JavaScript properties.
-- Designing well functioned and organized web page layouts.
+- Designing well-functioning and organized web page layouts.
 - Practicing properties and hyperlinks.
 
 ## Author
