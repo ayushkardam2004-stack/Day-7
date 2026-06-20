@@ -5,7 +5,7 @@ This repository contains the projects completed during Day 7 of my MERN Stack tr
 ## Files Included
 
 ### 📄 Javacsript.js
-- A Project using Node.js.
+- A Student Registration Form Project using Node.js.
 - Demonstrates the use of JavaScript properties for proper functioning and perfect working.
 -Includes sections such as buttons, about, skills, projects, and contact information.
 
